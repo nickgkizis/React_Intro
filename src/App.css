@@ -1,0 +1,41 @@
+/* Sidebar Styles */
+.sidebar {
+    width: 200px;
+    padding: 20px;
+    border-right: 2px solid #ddd;
+  }
+  
+  .sidebar h1 {
+    margin-top: 0;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 16px;
+  }
+  
+  .sidebar a:hover {
+    color: #0056b3;
+  }
+  
+  /* Main Content Styles */
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  /* Overall Layout */
+  .layout {
+    display: flex;
+  }
+  
