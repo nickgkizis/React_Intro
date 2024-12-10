@@ -115,4 +115,4 @@ This project showcases a collection of simple and interactive UI components crea
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/components-library.git
+   git clone https://github.com/nickgkizis/React_Intro.git
